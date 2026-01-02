@@ -2,7 +2,7 @@
 Universe
 ***
 
-# 🌌 Universe: 당신의 학업을 밝혀줄 은하계
+# 🌌 Universe
 
 **Universe**는 학생들의 효율적인 학습과 학교 생활을 돕기 위해 설계된 올인원 학업 보조 솔루션입니다. 급식 확인부터 정밀한 시간 측정까지, Universe 안에서 모든 학업 일정을 관리하세요.
 
@@ -60,14 +60,12 @@ Universe
 
 ### 🛠️ 기술 스택
 
-* **Frontend:** Flutter / React Native (사용 중인 프레임워크에 맞게 수정)
-* **Database:** Realtime Database (선생님 정보 실시간 동기화)
+* **Frontend:** Flutter, Dart
+* **Database:** NEIS API
 
 ***
 
 **Universe와 함께 더 빛나는 학창 시절을 만들어 가세요!** ✨
 
 ***
-
-혹시 앱의 디자인 컨셉이나 강조하고 싶은 특정 기술 스택(예: 사용한 프로그래밍 언어나 프레임워크)이 있다면 추가해 드릴까요?
 
